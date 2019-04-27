@@ -4,6 +4,5 @@
     - apt:
        name: python-minimal
        state: present
-  command:
   tasks:
    - setup:
