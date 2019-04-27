@@ -1,3 +1,2 @@
 - hosts: all
-  debug:
-    msg : "This is hostname"
+  setup:
